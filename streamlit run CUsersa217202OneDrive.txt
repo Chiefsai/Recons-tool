@@ -1,0 +1,1 @@
+streamlit run "C:\\Users\\a217202\\OneDrive - Standard Bank\\Desktop\\New folder (2)\\stanbic_recons_app.py"
